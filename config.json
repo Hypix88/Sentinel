@@ -1,0 +1,11 @@
+{
+  "token": "YOUR_BOT_TOKEN_HERE",
+  "logChannelId": "",
+  "verificationChannelId": "",
+  "verifiedRoleId": "",
+  "altAccountAgeDays": 7,
+  "ipqsApiKey": "YOUR_IPQUALITYSCORE_API_KEY_HERE",
+  "siteVerificationSecret": "GENERATE_A_SECRET_HERE",
+  "antiRaidMaxJoins": 5,
+  "antiRaidIntervalMs": 10000
+}
